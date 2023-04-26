@@ -15,5 +15,4 @@
 
 </div> <br/>
 
-Formado em Ciência da Computação, apaixonado por tecnologia, atuo como Desenvolvedor de Software para Web por mais de 2 anos.<br/>
-Comprometido em aprender e adquirir novas habilidades
+Apaixonado por tecnologia, atuo como Desenvolvedor de Software e estou sempre comprometido em aprimorar minhas habilidades e aprender novas tecnologias para entregar soluções de alta qualidade
