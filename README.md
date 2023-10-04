@@ -2,9 +2,14 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-soares-5046331a7/)
 
-![Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussilvaspw&show_icons=true&theme=transparent)
-
-[![Principais idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussilvaspw)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; align-items: center;">
+    <div>
+        ![Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussilvaspw&show_icons=true&theme=transparent)
+    </div>
+    <div style="margin-left: 20px;">
+        [![Principais idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussilvaspw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    </div>
+</div>
 
 ## Tecnologias que eu uso
 
@@ -21,7 +26,6 @@
 <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img align="center" alt="netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-
 </div> <br/>
 
 Apaixonado por tecnologia, atuo como Desenvolvedor de Software e estou sempre comprometido em aprimorar minhas habilidades e aprender novas tecnologias para entregar soluções de alta qualidade.
