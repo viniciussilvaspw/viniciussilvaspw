@@ -9,7 +9,7 @@
 ![Soares GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussilvaspw&show_icons=true&theme=transparent)
 [![Principais idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussilvaspw)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que eu uso
+### Minha stack de tecnologias
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
