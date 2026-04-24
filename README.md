@@ -28,5 +28,5 @@
 
 </div> <br/>
 
-Apaixonado por tecnologia, atuo como Desenvolvedor de Software e estou sempre comprometido em aprimorar minhas habilidades e aprender novas tecnologias para entregar soluções de alta qualidade.
+Sempre comprometido em aprimorar minhas habilidades e aprender novas tecnologias para entregar soluções de alta qualidade.
 
