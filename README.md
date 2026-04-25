@@ -41,7 +41,6 @@
 
 <br/><br/>
 
-<img align="center" alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 <img align="center" alt="GIMP" src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
 
 </div>
