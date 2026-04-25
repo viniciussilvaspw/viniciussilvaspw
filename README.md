@@ -56,9 +56,3 @@
 
 ---
 
-### 💡 Frase que me guia
-
-> “Evoluir um pouco todos os dias é melhor do que tentar ser perfeito de uma vez.”
-
----
-
