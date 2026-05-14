@@ -5,12 +5,15 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas de Código
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight&hide_langs_below=1" />
-</div>
+<p align="left">
+  <!-- Gráfico de Status (Substitua vinicius-soares pelo seu user real se for diferente) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius-soares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  
+  <!-- Gráfico de Linguagens -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-soares&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Linguagens mais usadas" />
+</p>
 
 ---
 
